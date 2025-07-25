@@ -2,8 +2,6 @@
 
 This project simulates a real-world FinOps use case — analyzing cloud costs using **Google Cloud Platform (BigQuery + Looker Studio)**. It processes GCP billing data, detects cost trends and anomalies, and visualizes spend by service, project, and time.
 
-<img width="764" height="595" alt="Screenshot 2025-07-25 at 12 36 16 PM" src="https://github.com/user-attachments/assets/d2fdd490-5ab1-4e5a-9f6c-f5cae14180d8" />
-
 ---
 
 ## 📊 Project Overview
